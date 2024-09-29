@@ -1,0 +1,103 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Logs
+.log
+logs
+.log.
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# IDEs and editors
+.vscode
+.idea
+.suo
+.ntvs
+.njsproj
+.sln
+.sw
+.iml
+
+# Python
+__pycache__
+.py[cod]
+.pyo
+.pyd
+.Python
+env
+venv
+ENV
+venv.bak
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+.db
+
+# Compiled files
+.o
+.obj
+.dll
+.class
+.exe
+.out
+.so
+.dylib
+
+# Packages
+.jar
+.war
+.ear
+
+# Rust
+target
+
+# Go
+bin
+.exe
+.out
+.test
+
+# Java
+.class
+.jar
+.war
+.ear
+
+# Haskell
+.hi
+.dyn_hi
+.dyn_o
+.o
+
+# Misc
+.lock
+.lockfile
+
+# Compiled source
+.com
+.class
+.dll
+.exe
+.o
+.so
+
+# Static build files
+build
+
+# Temporary files
