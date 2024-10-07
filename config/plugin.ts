@@ -6,6 +6,11 @@ const plugin: EggPlugin = {
     enable: true,
     package: 'egg-sequelize-ts',
   },
+  // 开启前端数据效验
+  validate: {
+    enable: true,
+    package: 'egg-validate',
+  },
 };
 
 export default plugin;
