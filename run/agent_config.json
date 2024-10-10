@@ -12,7 +12,7 @@
       "protocolWhiteList": [],
       "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",
       "csrf": {
-        "enable": true,
+        "enable": false,
         "type": "ctoken",
         "ignoreJSON": false,
         "useSession": false,
@@ -173,6 +173,7 @@
       "username": "root",
       "password": "<String len: 4>"
     },
+    "validate": {},
     "env": "local",
     "name": "Egg-TS",
     "keys": "<String len: 25>",
@@ -204,13 +205,15 @@
         "ci": "npm run lint && npm run cov && npm run tsc",
         "autod": "autod",
         "lint": "eslint . --ext .ts",
-        "clean": "ets clean"
+        "clean": "ets clean",
+        "sequelize-cli-ts": "node -r ts-node/register ./node_modules/sequelize-cli/lib/sequelize"
       },
       "dependencies": {
         "egg": "^2.6.1",
         "egg-scripts": "^2.6.0",
         "egg-sequelize": "^5.2.2",
         "egg-sequelize-ts": "^0.2.3-0",
+        "egg-validate": "^2.0.2",
         "mysql2": "^2.1.0",
         "sequelize-typescript": "^1.0.0"
       },
@@ -513,6 +516,17 @@
       "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\plugin.ts",
       "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-sequelize-ts",
       "version": "0.2.3-0"
+    },
+    "validate": {
+      "enable": true,
+      "package": "egg-validate",
+      "name": "validate",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\plugin.ts",
+      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-validate",
+      "version": "2.0.2"
     }
   },
   "appInfo": {
@@ -542,13 +556,15 @@
         "ci": "npm run lint && npm run cov && npm run tsc",
         "autod": "autod",
         "lint": "eslint . --ext .ts",
-        "clean": "ets clean"
+        "clean": "ets clean",
+        "sequelize-cli-ts": "node -r ts-node/register ./node_modules/sequelize-cli/lib/sequelize"
       },
       "dependencies": {
         "egg": "^2.6.1",
         "egg-scripts": "^2.6.0",
         "egg-sequelize": "^5.2.2",
         "egg-sequelize-ts": "^0.2.3-0",
+        "egg-validate": "^2.0.2",
         "mysql2": "^2.1.0",
         "sequelize-typescript": "^1.0.0"
       },

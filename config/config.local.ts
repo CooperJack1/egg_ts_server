@@ -11,6 +11,11 @@ export default () => {
     port: 3306,
     database: 'it666',
   };
-
+  // 禁用CSRF的安全校验
+  config.security = {
+    csrf: {
+      enable: false,
+    },
+  };
   return config;
 };

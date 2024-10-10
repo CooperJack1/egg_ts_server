@@ -4,8 +4,11 @@ export default class UserController extends Controller {
   public async create() {
     const { ctx } = this;
     const data = ctx.request.body;
-    const res = ctx.validate(NormalUserRule, data);
-    console.log(res);
-    ctx.body = '注册';
+    try {
+      ctx.validate(NormalUserRule, data);
+      ctx.body = '注册';
+    } catch (e) {
+      console.log(e);
+    }
   }
 }
