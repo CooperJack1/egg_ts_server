@@ -1,327 +1,327 @@
 {
-  "keys": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\config.default.ts",
-  "middleware": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\config.default.ts",
-  "sourceUrl": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\config.default.ts",
+  "keys": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.default.ts",
+  "middleware": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.default.ts",
+  "sourceUrl": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.default.ts",
   "sequelize": {
-    "dialect": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\config.local.ts",
-    "host": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\config.local.ts",
-    "username": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\config.local.ts",
-    "password": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\config.local.ts",
-    "port": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\config.local.ts",
-    "database": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\config.local.ts"
+    "dialect": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
+    "host": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
+    "username": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
+    "password": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
+    "port": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
+    "database": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts"
   },
   "security": {
     "csrf": {
-      "enable": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\config.local.ts",
-      "type": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "ignoreJSON": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "useSession": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "cookieName": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "sessionName": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "headerName": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "bodyName": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "queryName": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "supportedRequests": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "refererWhiteList": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
+      "type": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "supportedRequests": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
     },
-    "domainWhiteList": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-    "protocolWhiteList": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-    "defaultMiddleware": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+    "domainWhiteList": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
     "xframe": {
-      "enable": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "hsts": {
-      "enable": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.local.js",
-      "maxAge": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "includeSubdomains": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "dta": {
-      "enable": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "methodnoallow": {
-      "enable": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "noopen": {
-      "enable": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "nosniff": {
-      "enable": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "referrerPolicy": {
-      "enable": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "xssProtection": {
-      "enable": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "csp": {
-      "enable": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "policy": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "ipExceptionList": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
-      "checkAddress": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
+      "ipBlackList": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "ipExceptionList": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
     }
   },
   "session": {
-    "maxAge": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-session\\config\\config.default.js",
-    "key": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-session\\config\\config.default.js",
-    "httpOnly": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-session\\config\\config.default.js",
-    "encrypt": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-session\\config\\config.default.js",
-    "logValue": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-session\\config\\config.default.js"
+    "maxAge": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-session\\config\\config.default.js"
   },
   "helper": {
-    "shtml": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
+    "shtml": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security\\config\\config.default.js"
   },
   "jsonp": {
-    "limit": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "callback": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "csrf": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-jsonp\\config\\config.default.js"
+    "limit": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-jsonp\\config\\config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-onerror\\config\\config.default.js",
-    "appErrorFilter": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-onerror\\config\\config.default.js",
-    "templatePath": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-onerror\\config\\config.default.js"
+    "errorPageUrl": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-onerror\\config\\config.default.js"
   },
   "i18n": {
-    "defaultLocale": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-i18n\\config\\config.default.js",
-    "dirs": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-i18n\\config\\config.default.js",
-    "queryField": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieField": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieDomain": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieMaxAge": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-i18n\\config\\config.default.js"
+    "defaultLocale": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-i18n\\config\\config.default.js"
   },
   "watcher": {
-    "type": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-watcher\\config\\config.local.js",
+    "type": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-watcher\\config\\config.local.js",
     "eventSources": {
-      "default": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-watcher\\config\\config.default.js",
-      "development": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-watcher\\config\\config.default.js"
+      "default": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-watcher\\config\\config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-schedule\\config\\config.default.js",
-      "file": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-schedule\\config\\config.default.js"
+      "consoleLevel": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-schedule\\config\\config.default.js"
     }
   },
   "schedule": {
-    "directory": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-schedule\\config\\config.default.js"
+    "directory": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-schedule\\config\\config.default.js"
   },
   "multipart": {
-    "mode": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "autoFields": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "defaultCharset": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldNameSize": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldSize": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fields": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileSize": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "files": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileExtensions": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "whitelist": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "allowArrayField": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "tmpdir": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "mode": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
     "cleanSchedule": {
-      "cron": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
-      "disable": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js"
+      "cron": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js",
+      "disable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart\\config\\config.default.js"
     }
   },
   "development": {
-    "watchDirs": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-development\\config\\config.default.js",
-    "ignoreDirs": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-development\\config\\config.default.js",
-    "fastReady": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-development\\config\\config.default.js",
-    "reloadOnDebug": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-development\\config\\config.default.js",
-    "overrideDefault": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-development\\config\\config.default.js",
-    "overrideIgnore": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-development\\config\\config.default.js"
+    "watchDirs": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-development\\config\\config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "hourDelimiter": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "filesRotateBySize": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFileSize": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFiles": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "rotateDuration": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxDays": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js"
+    "filesRotateByHour": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator\\config\\config.default.js"
   },
   "static": {
-    "prefix": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-static\\config\\config.default.js",
-    "dir": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-static\\config\\config.default.js",
-    "dynamic": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-static\\config\\config.default.js",
-    "preload": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-static\\config\\config.default.js",
-    "buffer": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-static\\config\\config.default.js",
-    "maxFiles": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-static\\config\\config.default.js"
+    "prefix": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-static\\config\\config.default.js"
   },
   "view": {
-    "root": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-view\\config\\config.default.js",
-    "cache": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-view\\config\\config.local.js",
-    "defaultExtension": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-view\\config\\config.default.js",
-    "defaultViewEngine": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-view\\config\\config.default.js",
-    "mapping": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-view\\config\\config.default.js"
+    "root": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-view\\config\\config.default.js"
   },
-  "validate": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-validate\\config\\config.default.js",
-  "env": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-  "name": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-  "cookies": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-  "proxy": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-  "maxIpsCount": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-  "maxProxyCount": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-  "protocolHeaders": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-  "ipHeaders": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-  "hostHeaders": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "validate": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-validate\\config\\config.default.js",
+  "env": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
   "pkg": {
-    "name": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "version": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "description": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "private": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "name": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "private": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
     "egg": {
-      "typescript": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "declarations": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+      "typescript": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "declarations": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     },
     "scripts": {
-      "start": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "stop": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "dev": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "debug": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "test-local": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "test": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "cov": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "tsc": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "ci": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "autod": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "lint": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "clean": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "sequelize-cli-ts": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+      "start": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "stop": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "dev": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "debug": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "test": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "cov": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "tsc": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "ci": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "autod": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "lint": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "clean": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "sequelize-cli-ts": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     },
     "dependencies": {
-      "egg": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "egg-scripts": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "egg-sequelize": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "egg-sequelize-ts": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "egg-validate": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "mysql2": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "sequelize-typescript": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+      "egg": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "egg-sequelize": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "egg-sequelize-ts": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "mysql2": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "sequelize-typescript": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
-      "@types/mocha": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "@types/node": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "@types/supertest": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "autod": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "autod-egg": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "egg-bin": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "egg-ci": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "egg-mock": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "eslint": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "eslint-config-egg": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "sequelize-cli": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "tslib": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "typescript": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+      "@types/mocha": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "@types/node": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "@types/supertest": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "autod": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "sequelize-cli": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "tslib": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "typescript": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     },
     "engines": {
-      "node": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+      "node": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     },
     "ci": {
-      "version": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+      "version": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     },
     "repository": {
-      "type": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "url": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+      "type": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "url": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     },
-    "eslintIgnore": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "author": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "license": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+    "eslintIgnore": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "author": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
   },
-  "baseDir": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-  "HOME": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-  "rundir": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "baseDir": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
   "dump": {
-    "ignore": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+    "ignore": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "notFound": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "sitefile": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "middlewares": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "httpClient": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+    "bodyparser": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
   },
   "notfound": {
-    "pageUrl": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+    "pageUrl": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "cacheControl": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+    "/favicon.ico": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "cacheControl": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
   },
   "bodyParser": {
-    "enable": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "formLimit": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "jsonLimit": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "textLimit": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "strict": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
     "queryString": {
-      "arrayLimit": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "depth": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "parameterLimit": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+      "arrayLimit": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     },
-    "onerror": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+    "onerror": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
   },
   "logger": {
-    "dir": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "env": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "level": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "consoleLevel": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "disableConsoleAfterReady": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "outputJSON": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "buffer": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "appLogName": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "coreLogName": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "agentLogName": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "errorLogName": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "dir": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
     "coreLogger": {
-      "consoleLevel": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.local.js"
+      "consoleLevel": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.local.js"
     },
-    "allowDebugAtProd": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "enablePerformanceTimer": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+    "allowDebugAtProd": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "enablePerformanceTimer": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheLookupInterval": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheMaxLength": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "enableDNSCache": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
     "request": {
-      "timeout": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+      "timeout": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "meta": {
-    "enable": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "logging": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+    "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
   },
-  "coreMiddleware": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-  "workerStartTimeout": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-  "serverTimeout": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "coreMiddleware": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
   "cluster": {
     "listen": {
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "port": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-      "hostname": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
-    "responseTimeout": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+    "maxWaitTime": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
   },
-  "onClientError": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
+  "onClientError": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
 }

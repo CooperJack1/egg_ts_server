@@ -89,7 +89,7 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-onerror\\lib\\onerror_page.mustache"
+      "templatePath": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-onerror\\lib\\onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
@@ -102,8 +102,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-watcher\\lib\\event-sources\\default",
-        "development": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-watcher\\lib\\event-sources\\development"
+        "default": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-watcher\\lib\\event-sources\\default",
+        "development": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-watcher\\lib\\event-sources\\development"
       }
     },
     "customLogger": {
@@ -127,7 +127,7 @@
       "fileExtensions": [],
       "whitelist": null,
       "allowArrayField": false,
-      "tmpdir": "C:\\Users\\cooper\\AppData\\Local\\Temp\\egg-multipart-tmp\\Egg-TS",
+      "tmpdir": "C:\\Users\\Admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\Egg-TS",
       "cleanSchedule": {
         "cron": "0 30 4 * * *",
         "disable": false
@@ -152,14 +152,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\app\\public",
+      "dir": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\app\\public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\app\\view",
+      "root": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\app\\view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -248,9 +248,9 @@
       "author": "",
       "license": "MIT"
     },
-    "baseDir": "C:\\Users\\cooper\\Desktop\\egg_ts_server",
-    "HOME": "C:\\Users\\cooper",
-    "rundir": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\run",
+    "baseDir": "C:\\Users\\Admin\\Desktop\\egg_ts_server",
+    "HOME": "C:\\Users\\Admin",
+    "rundir": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -283,7 +283,7 @@
       "onerror": "<Function onerror>"
     },
     "logger": {
-      "dir": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\logs\\Egg-TS",
+      "dir": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\logs\\Egg-TS",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -363,8 +363,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-onerror",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-onerror",
       "version": "2.2.0"
     },
     "session": {
@@ -374,8 +374,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-session",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-session",
       "version": "3.3.0"
     },
     "i18n": {
@@ -385,8 +385,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-i18n",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-i18n",
       "version": "2.1.1"
     },
     "watcher": {
@@ -396,8 +396,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-watcher",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-watcher",
       "version": "3.1.1",
       "dependents": [
         "development"
@@ -412,8 +412,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-multipart",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-multipart",
       "version": "2.13.1"
     },
     "security": {
@@ -425,8 +425,8 @@
         "session"
       ],
       "env": [],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-security",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-security",
       "version": "2.11.0"
     },
     "development": {
@@ -440,8 +440,8 @@
       "env": [
         "local"
       ],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-development",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-development",
       "version": "2.7.0"
     },
     "logrotator": {
@@ -453,8 +453,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-logrotator",
       "version": "3.2.0"
     },
     "schedule": {
@@ -464,8 +464,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-schedule",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-schedule",
       "version": "3.7.0",
       "dependents": [
         "logrotator"
@@ -478,8 +478,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-static",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-static",
       "version": "2.3.1"
     },
     "jsonp": {
@@ -491,8 +491,8 @@
         "security"
       ],
       "env": [],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-jsonp",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-jsonp",
       "version": "2.0.0"
     },
     "view": {
@@ -502,8 +502,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-view",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-view",
       "version": "2.1.4"
     },
     "sequelize": {
@@ -513,8 +513,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\plugin.ts",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-sequelize-ts",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\plugin.ts",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-sequelize-ts",
       "version": "0.2.3-0"
     },
     "validate": {
@@ -524,17 +524,17 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\config\\plugin.ts",
-      "path": "C:\\Users\\cooper\\Desktop\\egg_ts_server\\node_modules\\egg-validate",
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\plugin.ts",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-validate",
       "version": "2.0.2"
     }
   },
   "appInfo": {
     "name": "Egg-TS",
-    "baseDir": "C:\\Users\\cooper\\Desktop\\egg_ts_server",
+    "baseDir": "C:\\Users\\Admin\\Desktop\\egg_ts_server",
     "env": "local",
     "scope": "",
-    "HOME": "C:\\Users\\cooper",
+    "HOME": "C:\\Users\\Admin",
     "pkg": {
       "name": "Egg-TS",
       "version": "1.0.0",
@@ -597,6 +597,6 @@
       "author": "",
       "license": "MIT"
     },
-    "root": "C:\\Users\\cooper\\Desktop\\egg_ts_server"
+    "root": "C:\\Users\\Admin\\Desktop\\egg_ts_server"
   }
 }
