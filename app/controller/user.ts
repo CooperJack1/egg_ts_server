@@ -14,14 +14,11 @@ export default class UserController extends Controller {
     const { ctx } = this;
     try {
       this.validateUserInfo();
-      // ctx.body = '注册';
       ctx.success({});
     } catch (e) {
       if (e.errors) {
-        // ctx.body = e.errors;
         ctx.error(400, e.errors);
       } else {
-        // ctx.body = e.message;
         ctx.error(400, e.message);
       }
     }
@@ -34,7 +31,10 @@ export default class UserController extends Controller {
     const registerType = data.registerType;
     switch (registerType) {
       case RegisterTypeEnum.Normal:
+        // 校验数据的格式是否正确
         ctx.validate(NormalUserRule, data);
+        // 校验当前的验证码是否正确
+        ctx.helper.verifyImageCode(data.captcha);
         break;
       case RegisterTypeEnum.Email:
         ctx.validate(EmailUserRule, data);
