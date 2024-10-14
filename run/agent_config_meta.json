@@ -10,6 +10,18 @@
     "port": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
     "database": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts"
   },
+  "redis": {
+    "client": {
+      "host": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
+      "port": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
+      "password": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
+      "db": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts"
+    },
+    "default": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-redis\\config\\config.default.js",
+    "app": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-redis\\config\\config.default.js",
+    "agent": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-redis\\config\\config.default.js",
+    "supportTimeCommand": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-redis\\config\\config.default.js"
+  },
   "security": {
     "csrf": {
       "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
@@ -161,6 +173,9 @@
     "mapping": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-view\\config\\config.default.js"
   },
   "validate": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-validate\\config\\config.default.js",
+  "sessionRedis": {
+    "name": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-session-redis\\config\\config.default.js"
+  },
   "env": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
   "name": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
   "cookies": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
@@ -196,9 +211,11 @@
     },
     "dependencies": {
       "egg": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "egg-redis": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
       "egg-scripts": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
       "egg-sequelize": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
       "egg-sequelize-ts": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "egg-session-redis": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
       "egg-validate": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
       "mysql2": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
       "sequelize-typescript": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",

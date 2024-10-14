@@ -6,6 +6,11 @@
       "httpOnly": true,
       "encrypt": true,
       "logValue": true,
+      "store": {
+        "get": "<AsyncFunction get>",
+        "set": "<AsyncFunction set>",
+        "destroy": "<AsyncFunction destroy>"
+      },
       "overwrite": true,
       "signed": true,
       "autoCommit": true,
@@ -120,6 +125,8 @@
         "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-view\\config\\locales",
         "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-sequelize-ts\\config\\locales",
         "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-validate\\config\\locales",
+        "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-redis\\config\\locales",
+        "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-session-redis\\config\\locales",
         "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\locales",
         "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\locales"
       ],
@@ -204,6 +211,21 @@
       "password": "<String len: 4>"
     },
     "validate": {},
+    "redis": {
+      "default": {},
+      "app": true,
+      "agent": false,
+      "supportTimeCommand": true,
+      "client": {
+        "host": "127.0.0.1",
+        "port": 6379,
+        "password": "<String len: 0>",
+        "db": 0
+      }
+    },
+    "sessionRedis": {
+      "name": ""
+    },
     "env": "local",
     "name": "Egg-TS",
     "keys": "<String len: 25>",
@@ -240,9 +262,11 @@
       },
       "dependencies": {
         "egg": "^2.6.1",
+        "egg-redis": "^2.4.0",
         "egg-scripts": "^2.6.0",
         "egg-sequelize": "^5.2.2",
         "egg-sequelize-ts": "^0.2.3-0",
+        "egg-session-redis": "^2.1.0",
         "egg-validate": "^2.0.2",
         "mysql2": "^2.1.0",
         "sequelize-typescript": "^1.0.0",
@@ -575,6 +599,33 @@
       "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\plugin.ts",
       "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-validate",
       "version": "2.0.2"
+    },
+    "sessionRedis": {
+      "enable": true,
+      "package": "egg-session-redis",
+      "name": "sessionRedis",
+      "dependencies": [
+        "redis"
+      ],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\plugin.ts",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-session-redis",
+      "version": "2.1.0"
+    },
+    "redis": {
+      "enable": true,
+      "package": "egg-redis",
+      "name": "redis",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\plugin.ts",
+      "path": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-redis",
+      "version": "2.6.0",
+      "dependents": [
+        "sessionRedis"
+      ]
     }
   },
   "appInfo": {
@@ -609,9 +660,11 @@
       },
       "dependencies": {
         "egg": "^2.6.1",
+        "egg-redis": "^2.4.0",
         "egg-scripts": "^2.6.0",
         "egg-sequelize": "^5.2.2",
         "egg-sequelize-ts": "^0.2.3-0",
+        "egg-session-redis": "^2.1.0",
         "egg-validate": "^2.0.2",
         "mysql2": "^2.1.0",
         "sequelize-typescript": "^1.0.0",

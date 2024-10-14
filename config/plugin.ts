@@ -11,6 +11,15 @@ const plugin: EggPlugin = {
     enable: true,
     package: 'egg-validate',
   },
+  // 开启Redis存储
+  sessionRedis: {
+    enable: true,
+    package: 'egg-session-redis',
+  },
+  redis: {
+    enable: true,
+    package: 'egg-redis',
+  },
 };
 
 export default plugin;
