@@ -218,6 +218,7 @@
       "egg-session-redis": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
       "egg-validate": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
       "mysql2": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
+      "nodemailer": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
       "sequelize-typescript": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
       "svg-captcha": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     },

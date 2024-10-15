@@ -19,8 +19,21 @@
       "GET"
     ],
     "paramNames": [],
-    "path": "/captcha",
-    "regexp": "/^\\/captcha(?:\\/(?=$))?$/",
+    "path": "/imagecode",
+    "regexp": "/^\\/imagecode(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/emailcode",
+    "regexp": "/^\\/emailcode(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]
