@@ -27,6 +27,11 @@ export default () => {
     user: 'cooper1996@qq.com',
     pass: 'tshyldqjvzgpdgeb',
   };
+  // 短信相关配置
+  config.sms = {
+    accessKeyId: 'LTAI4GHcxJrqW3gi2rUxhurB',
+    secretAccessKey: '1231312',
+  };
   // 禁用CSRF的安全校验
   config.security = {
     csrf: {

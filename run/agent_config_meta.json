@@ -22,6 +22,16 @@
     "agent": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-redis\\config\\config.default.js",
     "supportTimeCommand": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg-redis\\config\\config.default.js"
   },
+  "smtp": {
+    "host": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
+    "port": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
+    "user": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
+    "pass": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts"
+  },
+  "sms": {
+    "accessKeyId": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
+    "secretAccessKey": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts"
+  },
   "security": {
     "csrf": {
       "enable": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\config\\config.local.ts",
@@ -210,6 +220,7 @@
       "sequelize-cli-ts": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js"
     },
     "dependencies": {
+      "@alicloud/pop-core": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
       "egg": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
       "egg-redis": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",
       "egg-scripts": "C:\\Users\\Admin\\Desktop\\egg_ts_server\\node_modules\\egg\\config\\config.default.js",

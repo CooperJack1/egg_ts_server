@@ -1,4 +1,3 @@
-// import svgCaptcha = require('svg-captcha');
 import nodemailer = require('nodemailer');
 let transporter;
 export default {

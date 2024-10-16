@@ -224,6 +224,7 @@
         "sequelize-cli-ts": "node -r ts-node/register ./node_modules/sequelize-cli/lib/sequelize"
       },
       "dependencies": {
+        "@alicloud/pop-core": "^1.7.9",
         "egg": "^2.6.1",
         "egg-redis": "^2.4.0",
         "egg-scripts": "^2.6.0",
@@ -368,6 +369,16 @@
     "onClientError": null,
     "middleware": [],
     "sourceUrl": "https://github.com/eggjs/examples/tree/master/Egg-TS",
+    "smtp": {
+      "host": "smtp.qq.com",
+      "port": 465,
+      "user": "cooper1996@qq.com",
+      "pass": "<String len: 16>"
+    },
+    "sms": {
+      "accessKeyId": "LTAI4GHcxJrqW3gi2rUxhurB",
+      "secretAccessKey": "<String len: 7>"
+    },
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",
     "appMiddleware": "~config~middleware"
@@ -606,6 +617,7 @@
         "sequelize-cli-ts": "node -r ts-node/register ./node_modules/sequelize-cli/lib/sequelize"
       },
       "dependencies": {
+        "@alicloud/pop-core": "^1.7.9",
         "egg": "^2.6.1",
         "egg-redis": "^2.4.0",
         "egg-scripts": "^2.6.0",
