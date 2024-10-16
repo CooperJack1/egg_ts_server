@@ -37,7 +37,7 @@ export default {
     };
     return info;
   },
-  sendEmailCode(ctx, to:string) {
+  async sendEmailCode(ctx, to:string) {
     const transporter = this.createTransporterInstance();
     const info = this.createEmailInfo(ctx, to);
     return new Promise((resolve, reject) => {
