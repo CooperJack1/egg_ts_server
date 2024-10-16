@@ -410,6 +410,12 @@
     "onClientError": null,
     "middleware": [],
     "sourceUrl": "https://github.com/eggjs/examples/tree/master/Egg-TS",
+    "smtp": {
+      "host": "smtp.qq.com",
+      "port": 465,
+      "user": "cooper1996@qq.com",
+      "pass": "<String len: 16>"
+    },
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",
     "appMiddleware": "~config~middleware",

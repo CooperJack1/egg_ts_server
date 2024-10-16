@@ -11,4 +11,7 @@ module.exports = {
   async sendEmailCode(to:string) {
     return await EmailCode.sendEmailCode(this.ctx, to);
   },
+  verifyIEmailCode(clientCode) {
+    EmailCode.verifyEmailCode(this.ctx, clientCode);
+  },
 };

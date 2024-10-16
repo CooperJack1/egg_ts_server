@@ -20,6 +20,13 @@ export default () => {
       db: 0,
     },
   };
+  // 邮箱相关配置
+  config.smtp = {
+    host: 'smtp.qq.com',
+    port: 465,
+    user: 'cooper1996@qq.com',
+    pass: 'tshyldqjvzgpdgeb',
+  };
   // 禁用CSRF的安全校验
   config.security = {
     csrf: {
